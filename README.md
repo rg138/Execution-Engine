@@ -6,9 +6,8 @@ This package accompanies Chapter 11 and Appendix B of the book.
 
 - `delivery_evidence.py` — complete local evidence builder, using Python's standard library.
 - `example-input.json` — the six fictional delivery cases.
-- `expected/evidence-packet.json` — expected classifications and supporting observations.
-- `expected/review-draft.md` — the deterministic internal review draft.
-- `manuscript.md` — the complete book in editable plain-text Markdown.
+- `evidence-packet.json` — expected classifications and supporting observations.
+- `review-draft.md` — the deterministic internal review draft.
 
 ## Run the example
 
